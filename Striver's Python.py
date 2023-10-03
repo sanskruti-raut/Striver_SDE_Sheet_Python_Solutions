@@ -38,4 +38,4 @@ if __name__ == "__main__":
 	for row in ans:
 	    for ele in row:
 	        print(ele, end=" ")
-	    print()
+	    print("")
